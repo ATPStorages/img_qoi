@@ -1,0 +1,10 @@
+name = "img_qoi"
+description = "QOI (Quite OK Image Format) (de)/(en)coder tools"
+version = "0.1.0-dev"
+
+authors = ["Miko Elbrecht"]
+maintainers = ["Miko Elbrecht <pmt.mailservice@gmail.com>"]
+maintainers-logins = ["ATPStorages"]
+licenses = "Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = ["qoi", "image", "decoder", "encoder", "coder", "file", "format", "reader", "writer"]
